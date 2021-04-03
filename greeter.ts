@@ -19,6 +19,6 @@ function greeter(person: string) {
     return "Hello, " + person.firstName + " " + person.lastName;
   }
   
-  let user =  { firstName: "Ibrahim", lastName: "Ahiaba" }
+  let user =  { firstName: "Sulyman", lastName: "Abdullahi" }
   
   document.body.textContent = greeter(user);
