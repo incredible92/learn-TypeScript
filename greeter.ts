@@ -18,6 +18,6 @@ interface Person {
 function greeter(person: string) {
     return "Hello, " + person.firstName + " " + person.lastName;
   }
-  let user =  { firstName: "ojonimi", lastName: "Abdullahi" }
+  let user =  { firstName: "ojonimi", lastName: "Sulyman" }
   
   document.body.textContent = greeter(user);
