@@ -1,0 +1,27 @@
+{
+  "name": "typescriptwebapp",
+  "version": "1.0.0",
+  "description": "first step with typeScript",
+  "main": "index.js",
+  "scripts": {
+    "ts-node": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incredible92/learn-TypeScript.git"
+  },
+  "keywords": [
+    "typeScript",
+    "node"
+  ],
+  "author": "Abdullahi Sulyman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incredible92/learn-TypeScript/issues"
+  },
+  "homepage": "https://github.com/incredible92/learn-TypeScript#readme",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
