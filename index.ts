@@ -12,7 +12,7 @@ app.post('/calculate', (req, res) => {
     const result = calculator(value1, value2, op);
     res.send(result);
   });
-const PORT = 3000;
+const PORT = 3030;
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
